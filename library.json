@@ -1,0 +1,13 @@
+{
+  "tracks": [],
+  "modules": {
+    "filters": [
+      "opendsp/lowpass/1.0.0"
+    ]
+  },
+  "favs": {
+    "tracks": [
+      "stagas/unexpected-token/original-mix"
+    ]
+  }
+}
